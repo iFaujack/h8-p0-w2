@@ -1,0 +1,82 @@
+Nomor 1 - Newton Law
+
+
+//algoritma
+1. massa benda 600kg
+2. percepatan benda adalah 2m/s2
+3. Kalikan massa benda dengan percepatan benda
+4. hasil perhitungan adalah nilai newtown
+
+
+//Pseudocode
+store `m` to 600
+store `a` to 2
+store `newton` without any value
+Multiply `m` with `a`
+
+set `newton` value with result
+display newton
+
+
+Nomor 2 - Tahun Kabisat
+
+
+//Algoritma
+1. Simpan nilai Tahun
+2. jika hasil bagi tahun dengan 4 sama dengan 0 dan hasil bagi tahun dengan 100 sama dengan 0 maka tahun itu tahun Kabisat
+3. jika hasil bagi tahun dengan 4 sama dengan 0 dan hasil bagi tahun dengan 400 sama dengan 0 maka tahun itu tahun kabisat
+
+//Pseudocode
+store `year` with any value
+
+if `year` mod 4 equals to 0 and `year` mod 100 not equals to 0  THEN
+    DISPLAY 'LEAP Year'
+else if `year` mod 4 equals to 0 and `year` mod 400 equals to 0 THEN
+    DISPLAY 'Leap Year`
+else 
+    Display 'Not Leap year'
+
+
+Nomor 3 - Laundry day
+
+//Algoritma
+1. Masukkan Pakaian1
+2. Masukkan Pakaian2
+3. Masukkan Pakaian3
+4. Masukkan Pakaian4
+20. Masukkan Pakaian20
+21. Nyalakan Mesin cuci
+
+//Pseudocode
+store `count` to 0
+
+while `count` < 20 
+    add `count` by 1
+
+display "Turn on machine"
+
+
+Nomor 4 - Periksa Kuku
+//algoritma
+1.Cek Murid1
+2.Jika Kuku Murid1 panjang beri hukuman jika tidak beri pujian
+3.Cek Murid2
+4.Jika Kuku Murid2 panjang beri hukuman jika tidak beri pujian
+5.Cek Murid3
+6.Jika Kuku Murid3 panjang beri hukuman jika tidak beri pujian
+......
+79.Cek Murid40
+80.Jika Kuku Murid40 panjang beri hukuman jika tidak beri pujian
+
+
+//Pseudocode
+store `equals` to 40
+
+while `equals` < 40 
+    store `nail` with any value
+    if `nail` equals long
+        display "punish"
+    else 
+        display "commended"
+    
+    add `equals` by 1
